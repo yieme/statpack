@@ -1,6 +1,6 @@
 {
   "name": "statpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process Statistic Package",
   "main": "index.js",
   "scripts": {
