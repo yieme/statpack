@@ -38,7 +38,7 @@
         result[area] = {
           min: ss.min(stat),
           max: ss.max(stat),
-          ave: ss.average(stat)
+          ave: Math.round(ss.average(stat))
         }
       }
       return result
